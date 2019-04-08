@@ -1,0 +1,6 @@
+TODO
+- List only directories with git projects
+- Enhance the main menu
+- Alert git pull issues
+- Separate support functions from main file
+
